@@ -1,7 +1,7 @@
 ## _Type Safe Builder Pattern in Scala_
-This is a optional homework given in CS 474 OOLE.
+
 Intention of this project is to implement type safe builder pattern in Scala.
-The following implementation is intended to build a library and open it for public.
+The following implementation is intended to build the library and open it for public use.
 The builder pattern make sure that all the objects are provided before the library can be open for public.
 
 Running the code:
